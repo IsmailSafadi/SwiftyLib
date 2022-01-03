@@ -22,6 +22,7 @@
 		6553CA2D27837EFB008B0FDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6553CA0427837EFB008B0FDF /* Assets.xcassets */; };
 		6553CA2E27837EFB008B0FDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6553CA0427837EFB008B0FDF /* Assets.xcassets */; };
 		6553CA3C27838752008B0FDF /* SwiftyLib.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6553CA3B27838752008B0FDF /* SwiftyLib.swift */; };
+		6553CA3E27838C3C008B0FDF /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 6553CA3D27838C3C008B0FDF /* .travis.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		6553CA2527837EFB008B0FDF /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		6553CA2727837EFB008B0FDF /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
 		6553CA3B27838752008B0FDF /* SwiftyLib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftyLib.swift; sourceTree = "<group>"; };
+		6553CA3D27838C3C008B0FDF /* .travis.yml */ = {isa = PBXFileReference; lastKnownFileType = text.yaml; path = .travis.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				6553C9EA27837DD6008B0FDF /* SwiftyLib.h */,
 				6553C9EB27837DD6008B0FDF /* SwiftyLib.docc */,
 				6553CA3B27838752008B0FDF /* SwiftyLib.swift */,
+				6553CA3D27838C3C008B0FDF /* .travis.yml */,
 			);
 			path = SwiftyLib;
 			sourceTree = "<group>";
@@ -376,6 +379,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6553CA3E27838C3C008B0FDF /* .travis.yml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
